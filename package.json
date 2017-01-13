@@ -1,0 +1,19 @@
+{
+  "name": "test-c",
+  "version": "0.0.1",
+  "description": "Test C",
+  "dependencies": {
+    "test-a": "Reinmar/test-a",
+    "test-b": "Reinmar/test-b"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reinmar/test-c.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Reinmar/test-c/issues"
+  },
+  "homepage": "https://github.com/Reinmar/test-c#readme"
+}
