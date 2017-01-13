@@ -1,10 +1,10 @@
 {
   "name": "ckeditor5-c",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Test C",
   "dependencies": {
-    "ckeditor5-a": "^0.2.0",
-    "ckeditor5-b": "^1.0.0"
+    "ckeditor5-a": "^0.2.1",
+    "ckeditor5-b": "^1.1.0"
   },
   "devDependencies": {},
   "repository": {
