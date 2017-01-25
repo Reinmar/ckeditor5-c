@@ -1,6 +1,14 @@
 Changelog
 =========
 
+## [1.1.0](https://github.com/Reinmar/ckeditor5-c/compare/v1.0.1...v1.1.0) (2017-01-25)
+
+
+### Features
+
+* Nothing new but we need bump the version. ([9b4b3dc](https://github.com/Reinmar/ckeditor5-c/commit/9b4b3dc))
+
+
 ## [1.0.1](https://github.com/Reinmar/ckeditor5-c/compare/v1.0.0...v1.0.1) (2017-01-23)
 
 
