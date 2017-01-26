@@ -3,10 +3,11 @@
   "version": "1.1.1",
   "description": "Test C",
   "dependencies": {
-    "ckeditor5-a": "^0.3.1",
-    "ckeditor5-b": "^1.2.1"
+    "@ckeditor/ckeditor5-a": "^0.3.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@ckeditor/ckeditor5-b": "^1.2.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Reinmar/ckeditor5-c.git"
