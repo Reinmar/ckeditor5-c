@@ -4,6 +4,9 @@ Changelog
 ## [1.1.2](https://github.com/Reinmar/ckeditor5-c/compare/v1.1.1...v1.1.2) (2017-01-27)
 
 
+## [1.1.2](https://github.com/Reinmar/ckeditor5-c/compare/v1.1.1...v1.1.2) (2017-01-27)
+
+
 ## [1.1.1](https://github.com/Reinmar/ckeditor5-c/compare/v1.1.0...v1.1.1) (2017-01-26)
 
 
