@@ -1,12 +1,13 @@
 {
   "name": "ckeditor5-c",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Test C",
   "dependencies": {
-    "ckeditor5-a": "^0.3.1",
-    "ckeditor5-b": "^1.2.1"
+    "@ckeditor/ckeditor5-a": "^0.4.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@ckeditor/ckeditor5-b": "^1.2.2"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Reinmar/ckeditor5-c.git"
