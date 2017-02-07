@@ -3,10 +3,10 @@
   "version": "1.1.5",
   "description": "Test C",
   "dependencies": {
-    "@ckeditor/ckeditor5-a": "^0.4.5"
+    "@ckeditor/ckeditor5-a": "^1.0.2"
   },
   "devDependencies": {
-    "@ckeditor/ckeditor5-b": "^1.2.4"
+    "@ckeditor/ckeditor5-b": "^1.2.6"
   },
   "repository": {
     "type": "git",
