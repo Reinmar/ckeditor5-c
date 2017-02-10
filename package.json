@@ -6,7 +6,8 @@
     "@ckeditor/ckeditor5-a": "^2.0.2"
   },
   "devDependencies": {
-    "@ckeditor/ckeditor5-b": "^1.3.4"
+    "@ckeditor/ckeditor5-b": "^1.3.4",
+    "gulp": "^3.9.1"
   },
   "repository": {
     "type": "git",
