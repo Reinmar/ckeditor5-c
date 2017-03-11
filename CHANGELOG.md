@@ -1,6 +1,60 @@
 Changelog
 =========
 
+## [2.0.0](https://github.com/Reinmar/ckeditor5-c/compare/v1.3.0...v2.0.0) (2017-03-11)
+
+### Bug fixes
+
+* Changelog task will not trigger a CI. ([8d753bb](https://github.com/Reinmar/ckeditor5-c/commit/8d753bb))
+
+  Jakies moje dodatkowe zdanie.
+* Some fix. ([afcc041](https://github.com/Reinmar/ckeditor5-c/commit/afcc041))
+
+### Features
+
+* Introduced a brand new release tools with a new set of requirements. See [#64](https://github.com/Reinmar/ckeditor5-c/issues/64). ([7f0a523](https://github.com/Reinmar/ckeditor5-c/commit/7f0a523)), closes [#19](https://github.com/Reinmar/ckeditor5-c/issues/19) [#57](https://github.com/Reinmar/ckeditor5-c/issues/57) [#61](https://github.com/Reinmar/ckeditor5-c/issues/61) [#65](https://github.com/Reinmar/ckeditor5-c/issues/65)
+
+  * Added interactive mode for generating the changelog. A user can provide a new version or skip the process for given package.
+  * Release task - rebuilt module for collecting dependencies to release.
+  * Release task - a new version to release will be read from CHANGELOG file.
+  * Changelog task - will not break if changelog does not exist.
+  * Used `semver` package for bumping the version (instead of a custom module).
+* Test. ([8903af8](https://github.com/Reinmar/ckeditor5-c/commit/8903af8))
+
+### BREAKING CHANGES
+
+* Removed the `getoptions` module.
+* CLI parameters are not supported anymore.
+* Simplified options required by `tasks.releaseDependencies()`.
+
+
+## [2.0.0](https://github.com/Reinmar/ckeditor5-c/compare/v1.3.0...v2.0.0) (2017-03-11)
+
+### Bug fixes
+
+* Changelog task will not trigger a CI. ([8d753bb](https://github.com/Reinmar/ckeditor5-c/commit/8d753bb))
+
+  Jakies moje dodatkowe zdanie.
+* Some fix. ([afcc041](https://github.com/Reinmar/ckeditor5-c/commit/afcc041))
+
+### Features
+
+* Introduced a brand new release tools with a new set of requirements. See [#64](https://github.com/Reinmar/ckeditor5-c/issues/64). ([7f0a523](https://github.com/Reinmar/ckeditor5-c/commit/7f0a523)), closes [#19](https://github.com/Reinmar/ckeditor5-c/issues/19) [#57](https://github.com/Reinmar/ckeditor5-c/issues/57) [#61](https://github.com/Reinmar/ckeditor5-c/issues/61) [#65](https://github.com/Reinmar/ckeditor5-c/issues/65)
+
+  * Added interactive mode for generating the changelog. A user can provide a new version or skip the process for given package.
+  * Release task - rebuilt module for collecting dependencies to release.
+  * Release task - a new version to release will be read from CHANGELOG file.
+  * Changelog task - will not break if changelog does not exist.
+  * Used `semver` package for bumping the version (instead of a custom module).
+* Test. ([8903af8](https://github.com/Reinmar/ckeditor5-c/commit/8903af8))
+
+### BREAKING CHANGES
+
+* Removed the `getoptions` module.
+* CLI parameters are not supported anymore.
+* Simplified options required by `tasks.releaseDependencies()`.
+
+
 ## [1.3.0](https://github.com/Reinmar/ckeditor5-c/compare/v1.2.4...v1.3.0) (2017-02-10)
 
 Internal changes only (updated dependencies, documentation, etc.).
