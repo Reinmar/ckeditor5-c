@@ -1,13 +1,6 @@
 Changelog
 =========
 
-## [2.0.1](https://github.com/Reinmar/ckeditor5-c/compare/v2.0.0...v2.0.1) (2017-03-14)
-
-### Bug fixes
-
-* XYZ. Closes [#123](https://github.com/Reinmar/ckeditor5-c/issues/123). ([472d2cf](https://github.com/Reinmar/ckeditor5-c/commit/472d2cf))
-
-
 ## [2.0.0](https://github.com/Reinmar/ckeditor5-c/compare/v1.3.0...v2.0.0) (2017-03-11)
 
 ### Bug fixes
