@@ -1,6 +1,27 @@
 Changelog
 =========
 
+## [2.0.1](https://github.com/Reinmar/ckeditor5-c/compare/v2.0.0...v2.0.1) (2017-03-14)
+
+### Bug fixes
+
+* Empty. Closes [#345](https://github.com/Reinmar/ckeditor5-c/issues/345). ([1c96872](https://github.com/Reinmar/ckeditor5-c/commit/1c96872))
+
+  Lala.
+
+  Baba.
+* Foo 123 123 123 . Closes [#123](https://github.com/Reinmar/ckeditor5-c/issues/123). ([f865d96](https://github.com/Reinmar/ckeditor5-c/commit/f865d96))
+
+  * Something
+
+  * Something else
+* The rest eglebegle... ([496448e](https://github.com/Reinmar/ckeditor5-c/commit/496448e))
+* XYZ. Closes [#123](https://github.com/Reinmar/ckeditor5-c/issues/123). ([472d2cf](https://github.com/Reinmar/ckeditor5-c/commit/472d2cf))
+
+  * Another point. 
+  * And yet another point.
+
+
 ## [2.0.0](https://github.com/Reinmar/ckeditor5-c/compare/v1.3.0...v2.0.0) (2017-03-11)
 
 ### Bug fixes
