@@ -1,6 +1,21 @@
 Changelog
 =========
 
+## [3.0.0](https://github.com/Reinmar/ckeditor5-c/compare/v2.0.2...v3.0.0) (2017-04-06)
+
+### Other changes
+
+* BREAKING CHANGES INCOMING. ([269534a](https://github.com/Reinmar/ckeditor5-c/commit/269534a))
+
+  BREAKING CHANGES: Yolo 1.
+  BREAKING CHANGES: Yolo 2.
+
+### BREAKING CHANGES
+
+* Yolo 1.
+* Yolo 2.
+
+
 ## [2.0.2](https://github.com/Reinmar/ckeditor5-c/compare/v2.0.1...v2.0.2) (2017-03-29)
 
 Internal changes only (updated dependencies, documentation, etc.).
