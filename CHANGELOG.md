@@ -1,6 +1,13 @@
 Changelog
 =========
 
+## [3.0.3](https://github.com/Reinmar/ckeditor5-c/compare/v3.0.2...v3.0.3) (2017-04-20)
+
+### Bug fixes
+
+* Adjusted API to the latest changes. ([9870423](https://github.com/Reinmar/ckeditor5-c/commit/9870423))
+
+
 ## [3.0.2](https://github.com/Reinmar/ckeditor5-c/compare/v3.0.1...v3.0.2) (2017-04-20)
 
 Internal changes only (updated dependencies, documentation, etc.).
